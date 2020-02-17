@@ -151,7 +151,8 @@
 	}
 
 	.header-content-area {
-		background: linear-gradient(253.52deg, #48D6F2 8.92%, #84FC6A 96.59%);
+		/*background: linear-gradient(253.52deg, #48D6F2 8.92%, #84FC6A 96.59%);*/
+		background: linear-gradient(253.52deg, #8697ca 8.92%, #1156a3 96.59%);
 	}
 
 	.header-pattern-1 {
