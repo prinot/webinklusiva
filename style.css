@@ -3170,3 +3170,88 @@ footer p {
 	background: linear-gradient(253.52deg, #96b23b 8.92%, #658f3f 96.59%);
 	border: 2px solid transparent
 }
+
+
+
+
+
+
+/*16.4 Contact Form*/
+.contact-form-area2 {
+	background: #fff;*/
+	-webkit-box-shadow: 0px 9px 45px rgba(0, 0, 0, 0.2);*/
+	box-shadow: 0px 2px 25px rgba(194, 194, 194, 0.25);*/
+	border-radius: 26px;
+	padding: 30px;
+	margin-top: 10px;
+	position: relative;
+	z-index: 1
+}
+
+.contact-form2-heading h3 {
+	color: #fff;
+	text-align: center;
+	margin-bottom: 20px;
+	font-weight: 700;
+}
+
+.contact-form-area2 input[type='text'] {
+	width: 100%;
+	background-color: transparent;
+	border: none;
+	border-bottom: 1px solid #323657;
+	padding: 5px 5px;
+	color: #000;
+
+}
+.contact-form-area2 Select {
+	width: 100%;
+	background-color: transparent;
+	border: none;
+	border-bottom: 1px solid #323657;
+	padding: 5px 5px;
+	color: #000;
+}
+.contact-form-area2 input[type='email'] {
+	width: 100%;
+	background-color: transparent;
+	border: none;
+	border-bottom: 1px solid #323657;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	color: #000;
+	padding: 10px 5px;
+}
+
+.contact-form-area2 textarea {
+	width: 100%;
+	background-color: transparent;
+	border: none;
+	border-bottom: 1px solid #323657;
+	color: #323657;
+	padding: 10px 5px
+}
+
+/*16.5 Contact Form Button*/
+.send-btn2 {
+	text-align: center;
+	margin-top: 30px
+}
+
+#formsend2 {
+	/*background: linear-gradient(253.52deg, #48D6F2 8.92%, #84FC6A 96.59%);*/
+	background: linear-gradient(253.52deg, #8697ca 8.92%, #1156a3 96.59%);
+	color: #fff;
+	border: none;
+	padding: 12px 42px;
+	text-transform: capitalize;
+	font-weight: 700;
+	cursor: pointer;
+	-webkit-transition: .5s;
+	transition: .5s;
+	border-radius: 68px;
+}
+
+#formsend:hover {
+	background: linear-gradient(253.52deg, #1156a3 8.92%, #8697ca 96.59%);
+}
