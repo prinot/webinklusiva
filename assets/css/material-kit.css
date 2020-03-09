@@ -5652,7 +5652,7 @@ button.close {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-family: "Nunito", "Helvetica", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -5777,7 +5777,7 @@ button.close {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-family: "nunito", "Helvetica", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -8894,8 +8894,8 @@ button:focus {
 
 .btn.btn-primary {
   color: #fff;
-  background-color: #9c27b0;
-  border-color: #9c27b0;
+  background-color: #1156a3;
+  border-color: #1156a3;
   box-shadow: 0 2px 2px 0 rgba(156, 39, 176, 0.14), 0 3px 1px -2px rgba(156, 39, 176, 0.2), 0 1px 5px 0 rgba(156, 39, 176, 0.12);
 }
 
@@ -8909,8 +8909,8 @@ button:focus {
 .btn.btn-primary.focus,
 .btn.btn-primary:hover {
   color: #fff;
-  background-color: #9124a3;
-  border-color: #701c7e;
+  background-color: #1156a3;
+  border-color: #1156a3;
 }
 
 .btn.btn-primary:active,
@@ -8979,7 +8979,7 @@ button:focus {
 .btn.btn-primary.btn-link:focus,
 .btn.btn-primary.btn-link:active {
   background-color: transparent;
-  color: #9c27b0;
+  color: #1156a3;
 }
 
 .btn.btn-secondary {
@@ -10926,7 +10926,7 @@ legend {
 }
 
 .serif-font {
-  font-family: "Roboto Slab", "Times New Roman", serif;
+  font-family: "Nunito", sans-serif;
 }
 
 * {
@@ -12215,7 +12215,7 @@ fieldset[disabled] .is-focused .switch label:focus {
 
 .form-control,
 .is-focused .form-control {
-  background-image: linear-gradient(to top, #9c27b0 2px, rgba(156, 39, 176, 0) 2px), linear-gradient(to top, #d2d2d2 1px, rgba(210, 210, 210, 0) 1px);
+  background-image: linear-gradient(to top, #1156a3 2px, rgba(156, 39, 176, 0) 2px), linear-gradient(to top, #d2d2d2 1px, rgba(210, 210, 210, 0) 1px);
 }
 
 .form-control:invalid {
@@ -14681,7 +14681,7 @@ h6,
 .h2,
 .h3,
 .h4 {
-  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-family: "Nunito", "Helvetica", sans-serif;
   font-weight: 300;
   line-height: 1.5em;
 }
@@ -14772,7 +14772,7 @@ small,
 .footer-big h4,
 .media .media-heading {
   font-weight: 700;
-  font-family: "Roboto Slab", "Times New Roman", serif;
+  font-family: "Nunito", serif;
 }
 
 .title,
@@ -15301,8 +15301,8 @@ h2.title {
 .dropdown-menu a:hover,
 .dropdown-menu a:focus,
 .dropdown-menu a:active {
-  box-shadow: 0 4px 20px 0px rgba(0, 0, 0, 0.14), 0 7px 10px -5px rgba(156, 39, 176, 0.4);
-  background-color: #9c27b0;
+  box-shadow: 0 4px 20px 0px rgba(0, 0, 0, 0.14), 0 7px 10px -5px 1156a3;
+  background-color: #1156a3;
   color: #FFFFFF;
 }
 
@@ -16121,7 +16121,7 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
 }
 
 .header-filter::before {
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(204, 204, 204, 0.15);
 }
 
 .header-filter .container {
@@ -18065,7 +18065,7 @@ footer .pull-center {
 
 /*# sourceMappingURL=kit-free.css.map */
 .logo-image {
-  width: 200px;
+  width: 140px;
  
  
   overflow: hidden;
