@@ -16121,7 +16121,7 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
 }
 
 .header-filter::before {
-  background: rgba(204, 204, 204, 0.15);
+  /*background: rgba(204, 204, 204, 0.15);*/
 }
 
 .header-filter .container {
@@ -18067,5 +18067,7 @@ footer .pull-center {
 .logo-image {
   width: 140px;
   overflow: hidden;
+  margin-left: 100px;
   margin-top: -6px;
+  margin-left: 50px;
 }
