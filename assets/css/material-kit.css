@@ -6461,6 +6461,7 @@ button.bg-dark:focus {
   }
   .d-md-block {
     display: block !important;
+    padding-bottom: 150px;
   }
   .d-md-table {
     display: table !important;
@@ -12004,7 +12005,7 @@ fieldset[disabled] .form-group.is-focused .form-check .form-check-label {
 }
 
 .carousel .carousel-caption {
-  padding-bottom: 45px;
+  /*padding-bottom: 45px;*/
 }
 
 .carousel .carousel-caption .material-icons {
